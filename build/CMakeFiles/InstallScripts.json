@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/romaeugeny/Projects/opengl-heart/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,10 @@
+# ninja log v6
+2	71	1743964623603187983	CMakeFiles/opengl_heart.dir/src/VBO.cpp.o	53c61aa0f44df14b
+2	73	1743964623602993858	CMakeFiles/opengl_heart.dir/src/VAO.cpp.o	563ac27286e1d88b
+2	81	1743964623603353287	CMakeFiles/opengl_heart.dir/src/EBO.cpp.o	78f26bde8fb07f53
+1	259	1743964623602654898	CMakeFiles/opengl_heart.dir/src/glad.c.o	10263fa20a35138d
+1	664	1743964623602793867	CMakeFiles/opengl_heart.dir/src/shaderClass.cpp.o	73fef22ade43b5b7
+1	845	1743964623601005198	CMakeFiles/opengl_heart.dir/src/main.cpp.o	28455033d48f7c7e
+846	940	1743964624446005190	opengl_heart	1d735cf089cbe3f9
+2	641	1743964731533004156	CMakeFiles/opengl_heart.dir/src/main.cpp.o	28455033d48f7c7e
+641	734	1743964732172004150	opengl_heart	1d735cf089cbe3f9

@@ -1,0 +1,38 @@
+[
+{
+  "directory": "/home/romaeugeny/Projects/opengl-heart/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/opengl_heart.dir/src/main.cpp.o -c /home/romaeugeny/Projects/opengl-heart/src/main.cpp",
+  "file": "/home/romaeugeny/Projects/opengl-heart/src/main.cpp",
+  "output": "CMakeFiles/opengl_heart.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/romaeugeny/Projects/opengl-heart/build",
+  "command": "/usr/bin/gcc -g -o CMakeFiles/opengl_heart.dir/src/glad.c.o -c /home/romaeugeny/Projects/opengl-heart/src/glad.c",
+  "file": "/home/romaeugeny/Projects/opengl-heart/src/glad.c",
+  "output": "CMakeFiles/opengl_heart.dir/src/glad.c.o"
+},
+{
+  "directory": "/home/romaeugeny/Projects/opengl-heart/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/opengl_heart.dir/src/shaderClass.cpp.o -c /home/romaeugeny/Projects/opengl-heart/src/shaderClass.cpp",
+  "file": "/home/romaeugeny/Projects/opengl-heart/src/shaderClass.cpp",
+  "output": "CMakeFiles/opengl_heart.dir/src/shaderClass.cpp.o"
+},
+{
+  "directory": "/home/romaeugeny/Projects/opengl-heart/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/opengl_heart.dir/src/VAO.cpp.o -c /home/romaeugeny/Projects/opengl-heart/src/VAO.cpp",
+  "file": "/home/romaeugeny/Projects/opengl-heart/src/VAO.cpp",
+  "output": "CMakeFiles/opengl_heart.dir/src/VAO.cpp.o"
+},
+{
+  "directory": "/home/romaeugeny/Projects/opengl-heart/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/opengl_heart.dir/src/VBO.cpp.o -c /home/romaeugeny/Projects/opengl-heart/src/VBO.cpp",
+  "file": "/home/romaeugeny/Projects/opengl-heart/src/VBO.cpp",
+  "output": "CMakeFiles/opengl_heart.dir/src/VBO.cpp.o"
+},
+{
+  "directory": "/home/romaeugeny/Projects/opengl-heart/build",
+  "command": "/usr/bin/g++ -g -o CMakeFiles/opengl_heart.dir/src/EBO.cpp.o -c /home/romaeugeny/Projects/opengl-heart/src/EBO.cpp",
+  "file": "/home/romaeugeny/Projects/opengl-heart/src/EBO.cpp",
+  "output": "CMakeFiles/opengl_heart.dir/src/EBO.cpp.o"
+}
+]
